@@ -1,30 +1,30 @@
 ### Creating Collection called Simple API 
-![alt text](i1.png)
+![i1](images/i1.png)
 
 ### Getting Status of the API
-![alt text](i2.png)
+![i2](images/i2.png)
 
 ### Getting List Of Books 
-![alt text](i3.png)
+![i3](images/i3.png)
 
 ### Get Single Book Details
-![alt text](i4.png)
+![i4](images/i4.png)
 
 ### Order Book
-![alt text](i5.png)
+![i5](images/i5.png)
 
 ### Get All Book Order
-![alt text](i6.png)
+![i6](images/i6.png)
 
 ### Get Single Book Order
-![alt text](i7.png)
+![i7](images/i7.png)
 
 ### Update Book Order
-![alt text](i8.png)
+![i8](images/i8.png)
 
 ### Delete Book Order
-![alt text](i9.png)
+![i9](images/i9.png)
 
 
 ### Register API Client
-![alt text](i10.png)
+![i10](images/i10.png)
